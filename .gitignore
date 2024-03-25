@@ -1,5 +1,4 @@
 # Based on https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore
-Dockerfile
 
 # VScode
 packages/frontend/Frontend.code-workspace
@@ -13,7 +12,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-# Caches 
+# Caches
 
 .cache
 
